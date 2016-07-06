@@ -1,0 +1,44 @@
+@import "form.css";
+
+body{
+    margin: 0 auto;
+    background-color: #efefef;
+    font-size: 18px;
+}
+.sheet{
+    width: 512px;
+    height: 752px;
+    margin: 5px auto 40px;
+    background-color: #fff;
+}
+.wrapper{
+    margin: 0 auto;
+    padding-top: 28px;
+    width: 414px;
+}
+.header{
+    text-align: center;
+    border-bottom: 1px solid #7b7b7b;
+}
+h2{
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+}
+.wrapper img{
+    width: 127px;
+    height: 148px;
+    margin: 0 auto;
+}
+.indent{
+    margin-top: 30px;
+}
+.header, .content, .social{
+    border-bottom: 1px solid #7b7b7b;
+}
+.title{
+    margin-bottom: 0;
+}
+.info{
+    margin-top: 0;
+}
